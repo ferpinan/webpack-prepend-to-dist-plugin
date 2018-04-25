@@ -1,0 +1,1 @@
+# webpack-prepend-to-dist-plugin
